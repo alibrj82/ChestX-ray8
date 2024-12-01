@@ -1,4 +1,5 @@
 ChestX-ray8 Görüntü İşleme Çalışması
+
 Bu projede, ChestX-ray8 veri setindeki görüntüler üzerinde çeşitli görüntü işleme teknikleri uygulanarak, görsellerin kalitesini artırma, gürültü azaltma ve özelliklerini dönüştürme adımları gerçekleştirilmiştir. Amaç, görüntülerin analiz edilebilirliğini ve modelleme süreçlerinde kullanılabilirliğini artırmaktır. Çalışma şu başlıklar altında yürütülmüştür:
 
 Görüntü Geliştirme: Görsellerde kontrast artırma, gamma düzeltmesi ve histogram eşitlemesi teknikleriyle görüntülerin dinamik aralığı ve detayları iyileştirilmiştir.
